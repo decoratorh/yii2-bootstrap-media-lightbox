@@ -1,5 +1,5 @@
 {
-    "name": "limion/yii2-bootstrap-media-lightbox",
+    "name": "decorator/yii2-bootstrap-media-lightbox",
     "description": "Yii2 port for bootstrap-media-lightbox",
     "license": "BSD-3-Clause",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bootstrap-plus/bootstrap-media-lightbox": "*"
+        "decorator/bootstrap-media-lightbox": "*"
     },
     "autoload": {
         "psr-4": {
